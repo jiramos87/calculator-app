@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "fonts": [
+         {
+           "asset": "./assets/fonts/LeagueSpartan-VariableFont_wght.ttf",
+           "family": "League Spartan"
+         }
+       ]
   }
 }
